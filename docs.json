@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "$schema": "https://smartchat-f0a98170.mintlify.app/docs.json",
   "theme": "mint",
   "name": "Smartchat",
   "colors": {
@@ -24,6 +24,7 @@
           {
             "group": "Essentials",
             "pages": [
+              "essentials/inbox"
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
