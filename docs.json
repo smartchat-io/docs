@@ -25,8 +25,8 @@
             "group": "Módulos",
             "pages": [
               "essentials/inbox",
-              "essentials/markdown",
-              "essentials/code",
+              "essentials/pipelines",
+              "essentials/flows",
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
