@@ -26,8 +26,8 @@
             "pages": [
               "essentials/inbox",
               "essentials/pipelines",
-              "essentials/flows",
-              "essentials/images",
+              "essentials/flujos",
+              "essentials/contactos",
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
