@@ -78,7 +78,7 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "images/Smartchat.png",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
