@@ -28,9 +28,11 @@
               "essentials/pipelines",
               "essentials/flujos",
               "essentials/contactos",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/respuestas",
+              "essentials/ecommerce",
+              "essentials/broadcast",
+              "essentials/herramientas"
+              
             ]
           }
         ]
